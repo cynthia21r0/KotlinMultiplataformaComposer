@@ -60,7 +60,7 @@ class secondScreen:Screen{
     override fun Content() {
         val navigator = LocalNavigator.current
         Column(
-            modifier = Modifier.fillMaxSize().background(Color.Cyan),
+            modifier = Modifier.fillMaxSize().background(Color.DarkGray),
             horizontalAlignment = Alignment.CenterHorizontally
         ){
             Text("Segunda Pantalla", fontSize = 26.sp, color = Color.Black)
