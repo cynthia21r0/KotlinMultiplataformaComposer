@@ -1,7 +1,8 @@
-# This is a Kotlin Multiplatform project targeting Android, iOS, Web.
-## Video WEB
-https://github.com/user-attachments/assets/2fd96513-38fb-4e6d-93c6-fa99f119cc53
-## Capturas Android
-![image](https://github.com/user-attachments/assets/21af6611-7dfd-48df-b87d-4625d63480a6)
-![image](https://github.com/user-attachments/assets/21bfba7e-077b-49cd-b14f-039c48d79271)
-# KotlinMultiplataformaComposer
+# Cynthia Janeth Granados Estrada
+## KotlinMultiplataformaComposer
+## Capturas del dispositivo móvil
+|<img src="https://github.com/user-attachments/assets/74b79e9e-75fd-4a35-a7b8-9cf3ae4e530a" width="350"/>|
+|<img src="https://github.com/user-attachments/assets/195463bd-347b-428c-b673-f6136001f778" width="350"/>|
+## Capturas del navegador web
+|<img src="https://github.com/user-attachments/assets/73c710e8-7e9f-4527-bb4c-4bc62486031e" width="350"/>|
+|<img src="https://github.com/user-attachments/assets/ac7058dd-e0e9-40b2-b69c-7aef9f17702c" width="350"/>|
